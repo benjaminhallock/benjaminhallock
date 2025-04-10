@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**benjaminhallock/benjaminhallock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 **About Me**
+- 🎓 **Computer Science Student** at **Aurora University** (**Expected May 2025**)  
+  - GPA: **3.45/4.00**  
+  - **Associate of Science** from **IVCC** (**May 2022**) | GPA: **3.80/4.00**  
+  - 🏆 **Young Journalism Award for Photography**
+- 🔭 **Projects:**  
+  - **Pixel Party:** A **Multiplayer Pictionary Web App** built with the **MERN stack**  
+    - Features: **WebSockets**, **REST APIs**, **JWT**, **bcrypt**, **Express**
+  - **iOS Apps:** Created functional apps with **Objective-C/Swift**, winning multiple **hackathons**
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun Fact:** I love photography and coding equally! 📸👨‍💻  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Technical Skills**
+- **Languages:** Java, Python, Swift, JavaScript, HTML, CSS  
+- **Frameworks/Tools:** React, Node, Express, MongoDB, Git, AWS  
+- **Other:** Agile, TDD, REST APIs, WebSockets  
+
+---
+
+## 📊 **GitHub Stats**
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminhallock&show_icons=true&theme=radical)
+
+---
+
+📫 **Contact Me:**  
+[Email](mailto:bhallock02@aurora.edu) | [LinkedIn](https://linkedin.com/in/benjaminhallock) | [GitHub](https://github.com/benjaminhallock)
